@@ -1,5 +1,5 @@
 '''
-Embedding evaluation script for COMS W4705 Spring 2021 HW3.
+Embedding evaluation script
 
 You can run this script from command-line on one file at a time using
 
