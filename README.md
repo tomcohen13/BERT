@@ -3,8 +3,6 @@ Authors: Adam Storek, Tom Cohen
 
 This is the code repository for [Natural Language Processing, Spring 2021](http://www.cs.columbia.edu/~kathy/NLP/2021/). It contains a minimal implementation of word embedding evaluation via three tasks (two intrinsic and one intrinsic), and sample solution code that generates and evaluates embedding spaces under two different algorithms (word2vec, PPMI-SVD) and parameter settings.
 
-The writeup with full details is on Courseworks.
-
 ## Evaluation
 The main script to run for evaluation is `evaluate.py`.
 
